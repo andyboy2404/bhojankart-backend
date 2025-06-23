@@ -11,6 +11,9 @@
     "start": "node src/server/server.js"
 
   },
+  "engines": {
+  "node": "18.x"
+},
   "dependencies": {
     "@radix-ui/react-accordion": "^1.2.11",
     "axios": "^1.9.0",
